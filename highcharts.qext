@@ -1,0 +1,9 @@
+{
+	"name": "Highcharts",
+	"description": "${name}",
+	"icon": "table",
+	"type": "visualization",
+	"version": 1,
+	"preview": "table",
+	"author": "Anthony Alteirac"
+}
